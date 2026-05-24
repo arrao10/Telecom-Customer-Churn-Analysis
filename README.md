@@ -30,17 +30,17 @@ The analysis reveals actionable churn patterns across customer demographics, ser
 ### 📊 Reports
 | # | Report | Description |
 |---|--------|-------------|
-| REP1 | Churn Drivers & Financial Impact | Primary churn categories, revenue lost, high-value churned customers |
-| REP2 | Demographic Influences | Age group, marital status, gender — with Sunburst chart |
-| REP3 | Offer Effectiveness & Referral Behavior | Which offers retain customers, referral patterns |
-| REP4 | Service Relationships to Churn | Internet type, streaming, add-ons — with Sankey chart |
-| REP5 | Geographic & Billing Patterns | City-level churn map, charge risk bands, refund ratios |
-| ADD | Documentation | DAX functions, AppSource visuals, data model explanation |
+| Report1 | Churn Drivers & Financial Impact | Primary churn categories, revenue lost, high-value churned customers |
+| Report2 | Demographic Influences | Age group, marital status, gender — with Sunburst chart |
+| Report3 | Offer Effectiveness & Referral Behavior | Which offers retain customers, referral patterns |
+| Report4 | Service Relationships to Churn | Internet type, streaming, add-ons — with Sankey chart |
+| Report5 | Geographic & Billing Patterns | City-level churn map, charge risk bands, refund ratios |
+| Additional Information | Documentation | DAX functions, AppSource visuals, data model explanation |
 
 ---
 
 ### 🧮 Key DAX Measures
-`Churn Rate %` · `Revenue Lost to Churn` · `Avg Revenue Per Customer` · `Churn Risk Score` · `Revenue At Risk` · `High Value Churned` · `Avg Services Per Customer` · `% Churned Revenue of Selected Internet Types` *(ALLSELECTED — Extra Credit)* · `Charge to Refund Ratio` · `Churned Revenue %` · `Extra Charges Per Customer`
+`Churn Rate %` · `Revenue Lost to Churn` · `Avg Revenue Per Customer` · `Churn Risk Score` · `Revenue At Risk` · `High Value Churned` · `Avg Services Per Customer` · `% Churned Revenue of Selected Internet Types` *(ALLSELECTED)* · `Charge to Refund Ratio` · `Churned Revenue %` · `Extra Charges Per Customer`
 
 ---
 
